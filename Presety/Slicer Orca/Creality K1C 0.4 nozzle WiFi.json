@@ -1,0 +1,29 @@
+{
+    "from": "User",
+    "inherits": "Creality K1C 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_jerk_e": [
+        "10",
+        "2.5"
+    ],
+    "machine_max_jerk_x": [
+        "20",
+        "12"
+    ],
+    "machine_max_jerk_y": [
+        "20",
+        "12"
+    ],
+    "machine_max_jerk_z": [
+        "5",
+        "2"
+    ],
+    "machine_max_speed_z": [
+        "5",
+        "20"
+    ],
+    "name": "Creality K1C 0.4 nozzle WiFi",
+    "print_host": "192.168.1.114",
+    "printer_settings_id": "Creality K1C 0.4 nozzle WiFi",
+    "version": "2.0.2.0"
+}
